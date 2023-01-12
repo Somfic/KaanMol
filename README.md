@@ -76,3 +76,11 @@
     <img align="right" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kaanmol&custom_title=Most%20used%20languages&theme=github_dark&hide_border=true&langs_count=6" />
   <img float="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/wakatime?username=KaanMol&theme=github_dark&hide_border=true&custom_title=Coding%20activity%20%28past%20two%20weeks%29&langs_count=10" />
 </div>
+
+<h2>Currently working on</h2>
+<a href="https://www.github.com/Somfic/EventFlow-Server">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=kaanmol&repo=EventFlow-Server&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://www.github.com/Somfic/EventFlow-Client">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=kaanmol&repo=EventFlow-client&theme=tokyonight&hide_border=true" />
+</a>
