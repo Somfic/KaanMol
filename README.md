@@ -78,9 +78,9 @@
 </div>
 
 <h2>Currently working on</h2>
-<a href="https://www.github.com/Somfic/EventFlow-Server">
+<a href="https://www.github.com/kaanmol/EventFlow-Server">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=kaanmol&repo=EventFlow-Server&theme=tokyonight&hide_border=true" />
 </a>
-<a href="https://www.github.com/Somfic/EventFlow-Client">
+<a href="https://www.github.com/kaanmol/EventFlow-Client">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=kaanmol&repo=EventFlow-client&theme=tokyonight&hide_border=true" />
 </a>
